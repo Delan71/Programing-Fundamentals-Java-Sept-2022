@@ -90,6 +90,7 @@ public class ME05_Messages {
                     break;
                 case "7777":
                     letter = "s";
+                    System.out.print(letter);
                     break;
                 case "8":
                     letter = "t";
@@ -117,6 +118,7 @@ public class ME05_Messages {
                     break;
                 case "9999":
                     letter = "z";
+                    System.out.print(letter);
                     break;
                 default:
                     break;
